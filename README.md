@@ -14,5 +14,4 @@ This project predicts rainfall using machine learning techniques, leveraging his
 - Scikit-learn
 - Matplotlib, Seaborn
 
-## How to Run
-1. Clone the repository:
+
