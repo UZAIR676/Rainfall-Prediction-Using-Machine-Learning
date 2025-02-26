@@ -1,6 +1,6 @@
 # Rainfall Prediction Using Machine Learning
 
-This project predicts rainfall using machine learning techniques, leveraging historical weather data.
+This project predicts rainfall using machine learning techniques
 
 ## Features
 - Data preprocessing and visualization
